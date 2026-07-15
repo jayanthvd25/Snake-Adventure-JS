@@ -76,4 +76,8 @@ GitHub: https://github.com/jayanthvd25
 
 ---
 
+## 🌐 Live Demo
+
+https://snake-adventure-js.netlify.app
+
 ⭐ If you enjoyed this project, consider giving it a star!
