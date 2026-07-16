@@ -152,13 +152,7 @@ startButton.addEventListener("click", () => {
             snake.unshift(head);
             score += 10;
             scoreElement.textContent = score;
-
-            // if(score > highscore){
-            //     highscore = score;
-            //     localStorage.setItem("highScore",highscore.toString());
-            //     highscoreElement.textContent = highscore;
-            // }
-
+            
         } else {
 
             snake.unshift(head);
